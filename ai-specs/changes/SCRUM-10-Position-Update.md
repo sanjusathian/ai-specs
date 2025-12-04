@@ -275,10 +275,10 @@ PUT /positions/:id
 ### Documentation Updates
 
 **API Documentation:**
-- `documentation/api-spec.yml` - Should be updated with PUT /positions/:id endpoint specification
+- `ai-specs/specs/api-spec.yml` - Should be updated with PUT /positions/:id endpoint specification
 
 **Data Model:**
-- `documentation/DataModel.md` - Should be reviewed to ensure Position model documentation is current
+- `ai-specs/specs/data-model.md` - Should be reviewed to ensure Position model documentation is current
 
 ### Definition of Done
 

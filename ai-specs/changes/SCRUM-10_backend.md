@@ -1636,10 +1636,10 @@ describe('PositionController - updatePosition', () => {
    - New route: `PUT /positions/:id`
 
 2. **Identify Documentation Files**: Determine which documentation files need updates
-   - `openspec/specs/api-spec.yml` - Add PUT /positions/:id endpoint specification
-   - `openspec/specs/data-model.md` - Verify Position model documentation is current (no changes needed)
+   - `ai-specs/specs/api-spec.yml` - Add PUT /positions/:id endpoint specification
+   - `ai-specs/specs/data-model.md` - Verify Position model documentation is current (no changes needed)
 
-3. **Update API Specification** (`openspec/specs/api-spec.yml`):
+3. **Update API Specification** (`ai-specs/specs/api-spec.yml`):
    
    Add the following endpoint specification after the `GET /positions/{id}` endpoint:
 
@@ -1778,7 +1778,7 @@ describe('PositionController - updatePosition', () => {
        - data
    ```
 
-4. **Verify Data Model Documentation** (`openspec/specs/data-model.md`):
+4. **Verify Data Model Documentation** (`ai-specs/specs/data-model.md`):
    - Review Position model section (lines 157-192)
    - Confirm all fields match implementation (✓ already correct)
    - Confirm validation rules are documented (✓ already documented)
@@ -1789,7 +1789,7 @@ describe('PositionController - updatePosition', () => {
    - List specific changes made to each file
 
 **References**:
-- Follow process described in `openspec/specs/documentation-standards.mdc`
+- Follow process described in `ai-specs/specs/documentation-standards.mdc`
 - All documentation must be written in English
 
 **Notes**: 
